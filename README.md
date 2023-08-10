@@ -13,10 +13,11 @@ A curated list of awesome providers, services and resources for Zanzibar, the gl
 
 *Zanzibar as SaaS and Open Source solutions.*
 
-- [OpenFGA](https://github.com/openfga/openfga)
-- [SpiceDB](https://github.com/authzed/spicedb)
-- [Permify](https://github.com/Permify/permify)
 - [Keto](https://github.com/ory/keto)
+- [OpenFGA](https://github.com/openfga/openfga)
+- [Permify](https://github.com/Permify/permify)
+- [SpiceDB](https://github.com/authzed/spicedb) - Open Source solution Zanzibar inspired.
+- [Topaz](https://github.com/aserto-dev/topaz) - Topaz is an open source solution combining Zanzibar and Open Policy Agent.
 
 ## Resources
 
