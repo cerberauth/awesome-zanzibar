@@ -25,6 +25,7 @@ Where to discover learning resources about Zanzibar.
 
 - [Google Research Paper](https://research.google/pubs/pub48190/) - First Google research publication introducing Zanzibar.
 - [Zanzibar Academy](https://zanzibar.academy/) - Resources created by Auth0 about Zanzibar.
+- [Netflix Identity Use Case](https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89) - Netflix Zanzibar approaches experiments for authorization using SpiceDB to manage identity challenges.
 
 ## Contributing
 
