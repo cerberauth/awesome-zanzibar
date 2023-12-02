@@ -13,6 +13,7 @@ A curated list of awesome providers, services and resources for Zanzibar, the gl
 
 *Zanzibar as SaaS and Open Source solutions.*
 
+- [Cloudentity](https://cloudentity.com/) - Cloud Identity and Authorization Platform providing Zanzibar-based permissions.
 - [Keto](https://github.com/ory/keto)
 - [OpenFGA](https://github.com/openfga/openfga)
 - [Permify](https://github.com/Permify/permify)
