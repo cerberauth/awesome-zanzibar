@@ -1,5 +1,5 @@
 baseURL = 'https://awesome-zanzibar.cerberauth.com'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Awesome Zanzibar'
 
 [Taxonomies]
