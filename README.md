@@ -19,6 +19,7 @@ A curated list of awesome providers, services and resources for Zanzibar, the gl
 - [Permify](https://github.com/Permify/permify)
 - [SpiceDB](https://github.com/authzed/spicedb) - Open Source solution Zanzibar inspired.
 - [Topaz](https://github.com/aserto-dev/topaz) - Topaz is an open source solution combining Zanzibar and Open Policy Agent.
+- [Warrant](https://github.com/warrant-dev/warrant) - Centralized Fine-grained authorization service Zanzibar inspired.
 
 ## Resources
 
