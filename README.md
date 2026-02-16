@@ -1,6 +1,8 @@
 # Awesome Zanzibar [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome providers, services and resources for Zanzibar, the global authorization system.
+> Zanzibar is a fine-grained authorization (FGA) system, originally proposed [by Google in a research paper](https://research.google/pubs/pub48190/#introduction). It allows for the definition of a complex access control policy, in which permissions are defined in terms of resources, actions and conditions. The main goal of Zanzibar-based services is to provide a flexible authorization system that can be used from simple web applications to complex distributed systems.
+
+> Find this curated list of awesome providers, services and resources for Zanzibar.
 
 ## Contents
 
