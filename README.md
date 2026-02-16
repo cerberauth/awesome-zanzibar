@@ -4,22 +4,25 @@ A curated list of awesome providers, services and resources for Zanzibar, the gl
 
 ## Contents
 
-- [Zanzibar Open Source softwares and Services](#zanzibar-open-source-softwares-and-services)
+- [Zanzibar Softwares and Services](#zanzibar-softwares-and-services)
 - [Resources](#resources)
 
 ---
 
-## Zanzibar Open Source softwares and Services
+## Zanzibar Softwares and Services
 
 *Zanzibar as SaaS and Open Source solutions.*
 
+- [Auth0 FGA](https://auth0.com/fine-grained-authorization) - OpenFGA service serve as a SaaS by Auth0.
 - [Cloudentity](https://cloudentity.com/) - Cloud Identity and Authorization Platform providing Zanzibar-based permissions.
 - [Keto](https://github.com/ory/keto) - Open Source implementation of the Google Zanzibar paper, part of the Ory ecosystem.
 - [OpenFGA](https://github.com/openfga/openfga) - An open source implementation of the Google Zanzibar paper hosted by The Linux Foundation.
 - [Permify](https://github.com/Permify/permify) - An open source solution for managing permissions using the Zanzibar model.
+- [Permit.io ReBAC](https://www.permit.io/rebac) - Google Zanzibar style graph-based authorization combined with OPAL (Open Policy Administration Layer).
 - [SpiceDB](https://github.com/authzed/spicedb) - Open Source solution Zanzibar inspired.
 - [Topaz](https://github.com/aserto-dev/topaz) - Open source solution combining Zanzibar and Open Policy Agent.
 - [Warrant](https://github.com/warrant-dev/warrant) - Centralized Fine-grained authorization service Zanzibar inspired.
+- [WorkOS FGA](https://workos.com/docs/fga) - FGA built for B2B use cases that extends WorkOS.
 
 ## Resources
 
